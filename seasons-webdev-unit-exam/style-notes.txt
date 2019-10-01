@@ -1,0 +1,10 @@
+
+All other margin/padding/border-radius properties should be best-guessed from the screensho
+
+
+
+
+
+Additional:
+
+On hover, the button has a background color of lightslategray and the text is white
